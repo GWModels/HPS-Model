@@ -1,0 +1,9 @@
+fpdf2==2.8.2
+GDAL==3.10.2
+matplotlib==3.10.1
+numpy==2.2.4
+oldpdf2==2.8.2
+pandas==2.2.3
+Pillow==11.1.0
+scipy==1.15.2
+seaborn==0.13.2
