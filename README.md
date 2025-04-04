@@ -1,2 +1,2 @@
 # HPS-Model
-Horizontal Plane Solution Model &amp; Documentation
+The Horizontal Plane Solution (HPS) model solves for a three-dimensional differential equation for groundwater solute transport in a saturated porous medium with unform steady-state flow, one dimensional advection, three-dimensional dispersion, adsorption and first order decay. The HPS Python/Fortran 90 model is composed of a graphical User interface (GUI) written in Python 3.12 coupled with a Fortran 90 program that performs the calculations. The GUI provides for easier input and tabulated/graphical display of the output and the ability to output both a pdf report of results along with a GeoTIFF for GIS display of groundwater concentrations on satellite or other mapping imagery.  
